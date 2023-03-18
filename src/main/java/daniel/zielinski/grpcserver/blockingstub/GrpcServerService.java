@@ -1,4 +1,4 @@
-package daniel.zielinski.grpcserver;
+package daniel.zielinski.grpcserver.blockingstub;
 
 import daniel.zielinski.grpc.HelloGrpc;
 import daniel.zielinski.grpc.HelloReply;
